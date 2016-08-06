@@ -1,0 +1,32 @@
+_repo: A-Romance-of-the-Republic_10549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Francis, Lydia Maria
+    - Child, Lydia Maria Francis
+    - Child, L. Maria (Lydia Maria)
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interracial marriage -- United States -- Fiction'
+- !lcsh 'Slavery -- United States -- Fiction'
+- !lcsh 'United States -- Social conditions -- 1865-1918 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Racism -- United States -- Fiction'
+- GITenberg
+title: A Romance of the Republic
+url: http://www.gutenberg.org/ebooks/10549
